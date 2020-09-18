@@ -490,7 +490,8 @@ Quick",
     
     <script>
     //var disqus_shortname = 'hexo-theme-hueman';
-    var disqus_shortname = 'c.disquscdn.com';
+    var disqus_domain = 'disquscdn.com';
+    var disqus_shortname = 'c';
     
     
     var disqus_url = 'https://wow.lovelong.cn/2020/09/18/hello-world/';
@@ -500,7 +501,7 @@ Quick",
     dsq.type = 'text/javascript';
     dsq.async = true;
     //dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    dsq.src = '//' + disqus_shortname + '/embed.js';
+    dsq.src = '//' + disqus_shortname + '.' + disqus_domain + 'embed.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
     </script>
