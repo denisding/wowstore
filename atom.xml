@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>魔兽世界半解卷轴</title>
+  
+  
+  <link href="https://wow.lovelong.cn/atom.xml" rel="self"/>
+  
+  <link href="https://wow.lovelong.cn/"/>
+  <updated>2020-09-18T08:40:48.492Z</updated>
+  <id>https://wow.lovelong.cn/</id>
+  
+  <author>
+    <name>丁竹</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>demo</title>
+    <link href="https://wow.lovelong.cn/2020/09/18/demo/"/>
+    <id>https://wow.lovelong.cn/2020/09/18/demo/</id>
+    <published>2020-09-18T08:40:48.000Z</published>
+    <updated>2020-09-18T08:40:48.492Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>魔兽世界 9.0 四大盟约盟约套装幻化对比</title>
+    <link href="https://wow.lovelong.cn/2020/09/18/wow_9_0_covenant_appearance/"/>
+    <id>https://wow.lovelong.cn/2020/09/18/wow_9_0_covenant_appearance/</id>
+    <published>2020-09-18T08:39:00.000Z</published>
+    <updated>2020-09-18T08:56:17.090Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2020/09/18/wow_9_0_covenant_appearance/01.jpg" alt="晋升堡垒和格里恩盟约"></p><p><img src="/2020/09/18/wow_9_0_covenant_appearance/02.jpg" alt="玛卓克萨斯和通灵领主盟约"></p><p><img src="/2020/09/18/wow_9_0_covenant_appearance/03.jpg" alt="炽蓝仙野和法夜盟约"></p><p><img src="/2020/09/18/wow_9_0_covenant_appearance/04.jpg" alt="雷文德斯和温西尔盟约"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2020/09/18/wow_9_0_covenant_appearance/01.jpg&quot; alt=&quot;晋升堡垒和格里恩盟约&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2020/09/18/wow_9_0_covenant_appearance/02.j</summary>
+      
+    
+    
+    
+    <category term="幻化" scheme="https://wow.lovelong.cn/categories/%E5%B9%BB%E5%8C%96/"/>
+    
+    
+    <category term="幻化" scheme="https://wow.lovelong.cn/tags/%E5%B9%BB%E5%8C%96/"/>
+    
+    <category term="盟约" scheme="https://wow.lovelong.cn/tags/%E7%9B%9F%E7%BA%A6/"/>
+    
+    <category term="套装" scheme="https://wow.lovelong.cn/tags/%E5%A5%97%E8%A3%85/"/>
+    
+    <category term="9.0资料片" scheme="https://wow.lovelong.cn/tags/9-0%E8%B5%84%E6%96%99%E7%89%87/"/>
+    
+  </entry>
+  
+</feed>
